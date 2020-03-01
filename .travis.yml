@@ -10,7 +10,8 @@ cache:
   directories:
     - node_modules
 deploy:
-  - provider: script
-    script: deploy_production.sh
+  - provider: firebase
+    token:
+      secure: $FIREBASE_TOKEN
     on:
       branch: master
