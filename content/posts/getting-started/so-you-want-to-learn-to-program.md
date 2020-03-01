@@ -10,10 +10,10 @@ tags:
   - 'about'
   - 'Getting Started'
 description: 'We discuss what programming is, and how to get started in the industry.'
-socialImage: '/assets/so-you-want-cover.jpg'
+socialImage: '/media/so-you-want-cover.jpg'
 ---
 
-![Cover of laptop and books](/assets/so-you-want-cover.jpg)
+![Cover of laptop and books](/media/so-you-want-cover.jpg)
 
 <center>Photo by Émile Perron on Unsplash</center>
 

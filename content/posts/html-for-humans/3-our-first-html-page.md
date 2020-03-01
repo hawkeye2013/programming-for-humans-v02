@@ -9,10 +9,10 @@ tags:
   - 'HTML'
   - 'HTML For Humans'
 description: 'We discuss the basic HTML template tags'
-socialImage: '/assets/first-html-cover.jpg'
+socialImage: '/media/first-html-cover.jpg'
 ---
 
-![First HTML Cover](/assets/first-html-cover.jpg)
+![First HTML Cover](/media/first-html-cover.jpg)
 
 <center>Photo by Florian Olivo on Unsplash</center>
 

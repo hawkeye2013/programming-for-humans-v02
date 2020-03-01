@@ -11,10 +11,10 @@ tags:
   - 'Text Editors'
   - 'Word Processors'
 description: 'We discuss the difference between a text editor and a word processor.'
-socialImage: '/assets/text-edit-cover.jpg'
+socialImage: '/media/text-edit-cover.jpg'
 ---
 
-![Text Edit Cover](/assets/text-edit-cover.jpg)
+![Text Edit Cover](/media/text-edit-cover.jpg)
 
 <center>Photo by Sai Kiran Anagani on Unsplash</center>
 

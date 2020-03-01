@@ -1,7 +1,7 @@
 version: '2'
 services:
   web:
-    image: alxshelepenok/gatsby-starter-lumen:development
+    image: alxshelepenok/programming-for-humans:development
     build:
       context: ./
       dockerfile: Dockerfile.development
@@ -9,4 +9,4 @@ services:
     volumes:
       - ./:/usr/src/app
     ports:
-      - "8000:8000"
+      - '8000:8000'
