@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Tucker Hawkinson',
   subtitle:
-    'I am a full-stack JavaScript developer with a passion for creating impactful user experiences.',
+    "Hi! I'm a MEAN stack developer with a passion for user experience. I love creating beautiful tools that people love to use!",
   copyright: '©2020 Tucker Hawkinson All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
@@ -19,13 +19,17 @@ module.exports = {
     {
       label: 'Tutorials',
       path: '/pages/tutorials'
+    },
+    {
+      label: 'Programming Landscape',
+      path: '/pages/landscape'
     }
   ],
   author: {
     name: 'Tucker Hawkinson',
     photo: '/photo.jpg',
     bio:
-      'I am a full-stack JavaScript developer with a passion for creating impactful user experiences.',
+      "Hi! I'm a MEAN stack developer with a passion for user experience. I love creating beautiful tools that people love to use!",
     contacts: {
       email: '',
       facebook: '',
