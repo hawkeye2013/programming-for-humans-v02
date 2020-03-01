@@ -8,6 +8,7 @@ category: 'HTML For Humans'
 tags:
   - 'HTML'
   - 'Getting Started'
+  - 'HTML For Humans'
 description: 'We discuss how HTML came to be.'
 socialImage: '/assets/hfh1cover.jpg'
 ---

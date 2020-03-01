@@ -7,6 +7,7 @@ slug: 'working-with-text-editors'
 category: 'HTML For Humans'
 tags:
   - 'HTML'
+  - 'HTML For Humans'
   - 'Text Editors'
   - 'Word Processors'
 description: 'We discuss the difference between a text editor and a word processor.'
