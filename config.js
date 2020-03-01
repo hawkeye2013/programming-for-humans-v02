@@ -23,6 +23,10 @@ module.exports = {
     {
       label: 'Programming Landscape',
       path: '/pages/landscape'
+    },
+    {
+      label: 'About',
+      path: '/pages/about'
     }
   ],
   author: {
