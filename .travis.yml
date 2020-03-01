@@ -1,8 +1,9 @@
 language: node_js
 node_js:
-  - '10'
+  - '12'
 install:
   - npm install -g codecov
+  - npm install -g firebase-tools
 script:
   - yarn install
   - yarn lint
@@ -12,3 +13,8 @@ script:
 cache:
   directories:
     - node_modules
+deploy:
+  - provider: script
+    script: deploy_production.sh
+    on:
+      branch: master
