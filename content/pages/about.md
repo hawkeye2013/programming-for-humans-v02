@@ -1,10 +1,10 @@
 ---
 title: 'About'
 template: 'page'
-socialImage: '/media/about-cover.jpg'
+socialImage: '/media/covers/pages/about-cover.jpg'
 ---
 
-![About Cover Image](/media/about-cover.jpg)
+![About Cover Image](/media/covers/pages/about-cover.jpg)
 
 <center>Photo by Tudor Baciu on Unsplash</center>
 

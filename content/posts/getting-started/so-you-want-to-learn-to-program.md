@@ -13,7 +13,7 @@ description: 'We discuss what programming is, and how to get started in the indu
 socialImage: '/media/so-you-want-cover.jpg'
 ---
 
-![Cover of laptop and books](/media/so-you-want-cover.jpg)
+![Cover of laptop and books](/media/covers/getting-started/so-you-want-cover.jpg)
 
 <center>Photo by Émile Perron on Unsplash</center>
 

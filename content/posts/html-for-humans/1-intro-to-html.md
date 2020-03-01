@@ -10,10 +10,10 @@ tags:
   - 'Getting Started'
   - 'HTML For Humans'
 description: 'We discuss how HTML came to be.'
-socialImage: '/media/hfh1cover.jpg'
+socialImage: '/media/covers/html-for-humans/hfh1cover.jpg'
 ---
 
-![HFH - 1 Cover Image](/media/hfh1cover.jpg)
+![HFH - 1 Cover Image](/media/covers/html-for-humans/hfh1cover.jpg)
 
 <center>Photo by Sai Kiran Anagani on Unsplash</center>
 

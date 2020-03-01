@@ -1,10 +1,10 @@
 ---
 title: 'Tutorials'
 template: 'page'
-socialImage: '/media/tutorials-cover.jpg'
+socialImage: '/media/covers/pages/tutorials-cover.jpg'
 ---
 
-![Tutorials](/media/tutorials-cover.jpg)
+![Tutorials](/media/covers/pages/tutorials-cover.jpg)
 
 <center>Photo by Patrick Tomasso on Unsplash</center>
 

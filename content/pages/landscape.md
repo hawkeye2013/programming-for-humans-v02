@@ -1,10 +1,10 @@
 ---
 title: 'The Programming Landscape'
 template: 'page'
-socialImage: '/media/landscape-cover.jpg'
+socialImage: '/media/covers/pages/landscape-cover.jpg'
 ---
 
-![Landscape Cover](/media/landscape-cover.jpg)
+![Landscape Cover](/media/covers/pages/landscape-cover.jpg)
 
 <center>Photo by Claudio Testa on Unsplash</center>
 
