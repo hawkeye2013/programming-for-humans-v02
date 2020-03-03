@@ -35,7 +35,7 @@ This is when things start to get fun! This article we'll talk about different te
 
 ## HTML Tags And Elements
 
-The last article we breezed over the whole concept of the HTML Tags and Elements. That is an important concept so we'll cover that now. Take a look at the following `<title>` tag. We talked about this tag in the last article but in case you missed it, the `<title>` tag displays the title of the site in the tab header.
+In the last article, we breezed over the whole concept of HTML Tags and Elements. That is an important concept so we'll cover that now. Take a look at the following `<title>` tag. We talked about this tag in the last article but in case you missed it, the `<title>` tag displays the title of the site in the tab header.
 
 ```html
 <title>Site Title</title>
@@ -47,7 +47,7 @@ The last article we breezed over the whole concept of the HTML Tags and Elements
 
 ## Starting Big - Headers
 
-The first set of elements we'll talk about are the header elements. As you may imagine, these are the largest elements of the page. There are six levels of headers. From largest to smallest, these are `h1` - `h6`. Using the template we had from the last article, type the following between the `<body> </body>` tags.
+The first set of elements we'll talk about are header elements. As you may imagine, these are the largest elements of the page. There are six levels of headers. From largest to smallest, these are `h1` - `h6`. Using the template we had from the last article, type the following between the `<body> </body>` tags.
 
 ```html
 <!DOCTYPE html>
@@ -98,23 +98,20 @@ For now, this doesn't look like much of a change other than a slight indent. In 
 
 I want to mention a note about the whitespace in HTML. In programming, whitespace is considered all the spaces and newlines between tags and elements. In HTML, whitespace is only important in one case: The first space in between words. Take a look at the following examples.
 
+<!-- prettier-ignore -->
 ```html
 <blockquote>
   Be yourself; everyone else is already taken. - Oscar Wilde
 </blockquote>
-```
 
-<!-- prettier-ignore -->
-```html
 <blockquote>Be yourself; everyone else is already taken. - Oscar Wilde</blockquote>
+
+<blockquote>
+  Be yourself; everyone else is already taken.             - Oscar Wilde
+</blockquote>
 ```
 
-<!-- prettier-ignore -->
-```html
-<blockquote>Be yourself; everyone else is already taken.          - Oscar Wilde</blockquote>
-```
-
-If you type all three of these into the HTML file, they will render the same in the browser. This is because the first space between words is the only thing that is rendered, all other whitespace is ignored by the computer. There are some languages, such as Python, that will not run unless the files are formatted correctly. HTML is formatted to allow quick visualizations of the hierarchy and relationships of elements. We'll talk about that more later!
+If you type all three of these into the HTML file, they will render the same in the browser. This is because the first space between words is the only thing that is rendered, all other whitespace is ignored by the computer. There are some languages, such as Python, that will not run unless the files are formatted correctly. HTML is formatted to allow quick visualizations of the hierarchy and relationships of elements. We'll talk about that later!
 
 ## Links - Anchor Tag
 
@@ -128,7 +125,7 @@ This tag, unlike the last few, has something extra. The `<a>` and `</a>` work ju
 
 ## Conclusion
 
-We covered a lot in this article. We discussed the difference between HTML elements and tags, Headings, Paragraphs, quotes and links. Your code should look similar to below.
+We covered a lot in this article. We discussed the difference between HTML elements and tags, Headings, Paragraphs, quotes, and links. Your code should look similar to below.
 
 ```html
 <!DOCTYPE html>
@@ -160,6 +157,6 @@ We covered a lot in this article. We discussed the difference between HTML eleme
 </html>
 ```
 
-In the next article we will talk about putting images in our HTML pages!
+In the next article, we will talk about putting images in our HTML pages!
 
 [Previous Article](/posts/html-for-humans/our-first-html-file)
