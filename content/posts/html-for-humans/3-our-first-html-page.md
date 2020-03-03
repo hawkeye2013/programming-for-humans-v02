@@ -40,7 +40,7 @@ Next, while the rename is highlighted, we are going to delete everything **inclu
 
 If you hit enter too fast, just rename the file via `Right Click -> Rename` or hitting `F2` on the keyboard. Make sure you change the `.txt` to `.html`. Now you have an HTML file on your computer! Go ahead and open it up with your text editor of choice.
 
-Before we go on, I want to point something out here. We not only changed the name of the file, but the file extension as well (`.txt` to `.html`). The file extension is the way that the operating system knows how to act when it opens up the file so this is an important step. If you do not do this, your browser will not understand that it is looking at something that can be shown as a web page.
+Before we go on, I want to point something out here. We not only changed the name of the file but the file extension as well (`.txt` to `.html`). The file extension is the way that the operating system knows how to act when it opens up the file so this is an important step. If you do not do this, your browser will not understand that it is looking at something that can be shown as a web page.
 
 We now have a blank page staring at us. We will edit within our text editor and test the code in the browser. The easiest way to open the file is `Right Click -> Open With` and choose your browser of choice. Chrome has, in my opinion, the best developer tools out there so I would recommend using that.
 

@@ -72,7 +72,7 @@ As you can see, when you extract the word document (as you would a zip file) it 
 
 ## Can I use Notepad?
 
-I mean, sure. If you want. I have seen notepad used before, but I absolutely would **not** recommend it. There are a bunch of awesome text editors out there with tons of tools to ensure that your code doesn't have simple errors in it. Notepad, or TextEdit on Mac, are not on that list.
+I mean, sure. If you want. I have seen notepad used before, but I absolutely would **not** recommend it. There are a bunch of awesome text editors out there with tons of tools to ensure that your code doesn't have simple errors in it. Notepad is not on that list.
 
 ## Good Text Editors
 
@@ -98,7 +98,7 @@ I would highly recommend that you download a couple, or all of these and try the
 
 ## Conclusion
 
-In this article we discussed using text editors to edit code. We also created a small example where we showed that a word document may say the same thing that a text file does, but there is much more going on with it. Check out the other articles below to continue learning about HTML.
+In this article, we discussed using text editors to edit code. We also created a small example where we showed that a word document may say the same thing that a text file does, but there is much more going on with it. Check out the other articles below to continue learning about HTML.
 
 [Next Article](/posts/html-for-humans/our-first-html-file)
 
